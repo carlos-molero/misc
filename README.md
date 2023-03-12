@@ -30,7 +30,7 @@ Both pull requests and individual commits follow the `git-flow` format (`(featur
 
 - `rm`: The only purpose of the commit or pull request was to remove a file.
 
-- `hotfix:` A change commited directly to the branch which deploys the project with the purpose of fixing a bug (not encouraged).
+- `hotfix`: A change commited directly to the branch which deploys the project with the purpose of fixing a bug (not encouraged).
 
 - `rp`: Replace a static file with another with the same name. Let's think about a static asset called `image.png`, if we delete it and paste another with the same name we should use this flag.
 
